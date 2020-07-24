@@ -4,3 +4,7 @@ The libraries used was:
 - BeautifulSoup4
 - Requests
 - Panda
+It gets the team name and the score of Spanish footbal league:
+- https://resultados.as.com/resultados/futbol/primera/clasificacion/
+
+Regards.
